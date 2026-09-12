@@ -6,6 +6,7 @@
 Doctor, actor, lawyer or a singer
 Why not programmer, be a dreamer
 You can code just the code you wanna be
+
 Frontend, backend, DBA or DevOps
 Why not full-stack, don't ever stop
 You can build just the app you wanna be
