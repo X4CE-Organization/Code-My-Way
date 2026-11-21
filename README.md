@@ -3,55 +3,73 @@
 **Based on "Be What You Wanna Be" by Darin Zanyar**
 
 ```plaintext
-Doctor, actor, lawyer or a singer
+Coder, tester, builder or a shipper
 Why not programmer, be a dreamer
-You can code just the code you wanna be
+You can code just the app you wanna be
 
 Frontend, backend, DBA or DevOps
 Why not full-stack, don't ever stop
 You can build just the app you wanna be
 
-You can be what you wanna be
-Write clean code, set it free
-Debug all night, drink more coffee
-You can be what you wanna be
+I know that we all write code
+That we all ship together
+We got that one clean build
+We deploy
 
-You can be what you wanna be
-Ship the product, v1.3
-Fix the bugs, push to prod
-You can be what you wanna be
+You never know what bugs could bring
+Coz nothing lasts forever
+Just hold on to the repo
+You push for
 
-Scrum master, product owner, tech lead
-Why not architect, plant the seed
-You can design just the system you wanna be
-Agile, Waterfall, or Kanban flow
-Stand-up meeting, here we go
-You can work just the way you wanna be
+I know you could ship the top
+Make sure that you won't stop
+Be the dev that you wanna be
+Now ship this with me
 
-You can be what you wanna be
-Whiteboard interview, victory
-System design, scalability
-You can be what you wanna be
+Coder, tester, builder or a shipper
+Why not programmer, be a dreamer
+You can code just the app you wanna be
 
-You can be what you wanna be
-Microservices, API
-Docker, Kubernetes, cloud-native
-You can be what you wanna be
+Frontend, backend, DBA or DevOps
+Why not full-stack, don't ever stop
+You can build just the app you wanna be
 
-Refactor, optimize, never surrender
-Write unit tests, make it stronger
-Code review, merge request
-Learn and grow, be the best
+We may have different stacks to pick
+But it doesn't really matter
+We all caught up in the sprint
+Of this build
 
-CI/CD pipeline flows
-Automated testing, everyone knows
-Ship it fast, ship it right
-Code with passion, day and night
+Focus on every little bug
+That's what does really matter
+Legacy code and bling
+That's not clean code
 
-You can be what you wanna be
-Tech lead, CTO, MVP
-Open source, community
-You can be just the one you wanna be
+I know you could ship the top
+Make sure that you won't stop
+Be the dev that you wanna be
+Now ship this with me
+
+Coder, tester, builder or a shipper
+Why not programmer, be a dreamer
+You can code just the app you wanna be
+
+Frontend, backend, DBA or DevOps
+Why not full-stack, don't ever stop
+You can build just the app you wanna be
+
+Last year I used to dream about this launch
+Now I'm here I'm shipping for you
+I hope I could deploy with you
+Coz I've got all the code
+Coz I've got all code for you
+
+Coder, tester, builder or a shipper
+Why not programmer, be a dreamer
+You can code just the app you wanna be
+
+Frontend, backend, DBA or DevOps
+Why not full-stack, don't ever stop
+You can build just the app you wanna be
 
 git add .
 git commit -m "Final commit"
